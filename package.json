@@ -1,0 +1,12 @@
+{
+  "name": "lantern-net",
+  "type": "module",
+  "version": "1.0.0",
+  "repository": "git@github.com:Continuities/lantern-net.git",
+  "author": "Michael Townsend <michael@doublespeakgames.com>",
+  "license": "MPL2",
+  "private": true,
+  "dependencies": {
+    "artnet": "^1.4.0"
+  }
+}
