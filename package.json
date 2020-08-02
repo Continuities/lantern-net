@@ -6,6 +6,9 @@
   "author": "Michael Townsend <michael@doublespeakgames.com>",
   "license": "MPL2",
   "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "artnet": "^1.4.0"
   }
