@@ -12,7 +12,7 @@ const artnet = Artnet({ host: ARTNET_IP });
 // 18 lanterns (255 on, anything else off
 
 // 1 - 54 for lights, 3 channels per
-// 257 - 293 for lanterns
+// 257 - 292 for lanterns
 
 // Lantern arming channels are 257-274
 // lanternIndex is 0-17
